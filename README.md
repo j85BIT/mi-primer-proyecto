@@ -12,8 +12,11 @@ Este proyecto marca el inicio de mi viaje en el desarrollo de software usando IA
 - Git — control de versiones
 - GitHub — repositorio remoto
 
-## Como empezar
+## Cómo empezar
 
-1. Clona el repositorio
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/j85BIT/mi-primer-proyecto.git
+   ```
 2. Explora los archivos
 3. ¡Contribuye!
